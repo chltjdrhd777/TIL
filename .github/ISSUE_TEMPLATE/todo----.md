@@ -7,14 +7,18 @@ assignees: chltjdrhd777
 
 ---
 
-## [Front]
-- [ ] N:M 관계에 따른 링크 추천주소 컴포넌트 구현
-- [ ] Draggable Component 구현
+## 1.  프론트
+ 
+- [ ] cacao Oauth 버튼 만들기
+- [ ] cacao 지도 api 로 지도 컴포넌트 만들기
 
-## [Back]
-- [ ] User Route 구현
-- [ ] Multer을 이용한 이미지 저장 구현
+## 2. 서버
 
-## [Personal Study]
-- [x] Git Project 활용법 배우기
-- [ ] Typescript 공부 (베이직 타입)
+- [ ] cacao Oauth 인증 라우트 만들기
+- [ ] mail 인증 만들기
+
+## 3. 개인공부
+
+- [ ] 모던 자바스크립트 4페이지 복습
+- [ ] 타입스크립트 [타입공부](https://heropy.blog/2020/01/27/typescript/)
+- [ ] 네트워크 면접 준비 블로깅
