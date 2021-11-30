@@ -2,7 +2,7 @@
 name: Snippet 템플릿(개인공부용)
 about: 개인공부를 하면서 습득한 내용들 정리
 title: 11/29 개인공부 내용
-labels: ''
+labels: snippets
 assignees: chltjdrhd777
 
 ---
