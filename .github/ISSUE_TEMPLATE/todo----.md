@@ -1,7 +1,7 @@
 ---
 name: Todo 탬플릿
 about: 개인 공부를 위한 투두 탬플릿 리스트
-title: 11/17 [프론트] [서버] [개인공부]
+title: 12/1 [프론트] [서버] [개인공부]
 labels: Todo
 assignees: chltjdrhd777
 
