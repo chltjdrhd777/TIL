@@ -21,4 +21,4 @@ assignees: chltjdrhd777
 
 - [ ] 모던 자바스크립트 4장 복습
 - [ ] 타입스크립트 [타입공부](https://heropy.blog/2020/01/27/typescript/)
-- [ ] 네트워크 면접 준비 블로깅
+- [ ] css 공부 [레퍼런스](https://www.youtube.com/watch?v=aAEfBxcGpJ8)
