@@ -1,7 +1,7 @@
 ---
 name: error-log 템플릿
 about: 에러 로그 작성용 템플릿
-title: '12/1 '
+title: 12/1 [에러로그]
 labels: Done
 assignees: chltjdrhd777
 
