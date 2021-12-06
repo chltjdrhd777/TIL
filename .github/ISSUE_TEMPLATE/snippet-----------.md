@@ -1,7 +1,7 @@
 ---
 name: Snippet 템플릿(개인공부용)
 about: 개인공부를 하면서 습득한 내용들 정리
-title: 12/1 [스니펫] 개인공부 내용
+title: "[\U0001F697 Snippet] 12/1 스니펫이름"
 labels: snippets
 assignees: chltjdrhd777
 
