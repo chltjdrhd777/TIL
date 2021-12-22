@@ -17,6 +17,7 @@ assignees: chltjdrhd777
 - [ ] 타입스크립트 챌린지 [레퍼런스](https://github.com/type-challenges/type-challenges)
 - [ ] css 공부 
 
+## 기록정리
 - [ ] 모던 자바스크립트 공부내용 깃프로젝트 정리
 - [ ] 타입스크립트 공부내용 깃프로젝트 정리
 - [ ] css 공부내용 깃프로젝트 정리
