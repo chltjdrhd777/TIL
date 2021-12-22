@@ -8,18 +8,14 @@ assignees: chltjdrhd777
 ---
 
 # ✔️ 해야 할 일 리스트
-## 1.  프론트
- 
-- [ ] cacao Oauth 버튼 만들기
-- [ ] cacao 지도 api 로 지도 컴포넌트 만들기
 
-## 2. 서버
+## 개인공부
 
-- [ ] cacao Oauth 인증 라우트 만들기
-- [ ] mail 인증 만들기
+- [ ] 모던 자바스크립트 deep dive 5장 복습
+- [ ] 모던 자바스크립트 튜토리얼 공부 (레퍼런스)[https://ko.javascript.info/]
+- [ ] 타입스크립트 공부 [레퍼런스](https://github.com/type-challenges/type-challenges)
+- [ ] css 공부 
 
-## 3. 개인공부
-
-- [ ] 모던 자바스크립트 4장 복습
-- [ ] 타입스크립트 [타입공부](https://heropy.blog/2020/01/27/typescript/)
-- [ ] css 공부 [레퍼런스](https://www.youtube.com/watch?v=aAEfBxcGpJ8)
+- [ ] 모던 자바스크립트 공부내용 깃프로젝트 정리
+- [ ] 타입스크립트 공부내용 깃프로젝트 정리
+- [ ] css 공부내용 깃프로젝트 정리
