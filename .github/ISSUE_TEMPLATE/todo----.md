@@ -13,7 +13,8 @@ assignees: chltjdrhd777
 
 - [ ] 모던 자바스크립트 deep dive 5장 복습
 - [ ] 모던 자바스크립트 튜토리얼 공부 (레퍼런스)[https://ko.javascript.info/]
-- [ ] 타입스크립트 공부 [레퍼런스](https://github.com/type-challenges/type-challenges)
+- [ ] 타입스크립트 공부 [레퍼런스](https://heropy.blog/2020/01/27/typescript/)
+- [ ] 타입스크립트 챌린지 [레퍼런스](https://github.com/type-challenges/type-challenges)
 - [ ] css 공부 
 
 - [ ] 모던 자바스크립트 공부내용 깃프로젝트 정리
