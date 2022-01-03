@@ -16,7 +16,7 @@ assignees: chltjdrhd777
 - [ ] 기술스텍 조사
 
 ## 개인공부
-- [ ] 모던 자바스크립트 deep dive 5장 복습
+- [ ] 모던 자바스크립트 deep dive 7장 복습
 - [ ] 모던 자바스크립트 튜토리얼 복습 [레퍼런스](https://ko.javascript.info/)
 - [ ] 기술면접 준비 ( javascript, react, typescript, socketIO 등등...)
 - [ ] 타입스크립트 복습 [레퍼런스](https://www.udemy.com/course/understanding-typescript/learn/lecture/16935762#overview)
