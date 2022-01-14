@@ -25,6 +25,7 @@ assignees: chltjdrhd777
 ## 개인공부
 - [ ] 모던 자바스크립트 deep dive 7장 복습
 - [ ] 기술면접 준비 ( javascript, react, typescript, socketIO 등등...)
+- [ ] CSS 디자인 참조공부 (30분)
 
 ## 기록정리
 - [ ] 기술면접 준비내용 깃프로젝트, 벨로그 정리
