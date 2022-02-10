@@ -17,10 +17,15 @@ assignees: chltjdrhd777
   - [ ] 제작중인 프로젝트 Next.js로 이식
 
 ## 개인공부
-- [ ] 모던 자바스크립트 deep dive 7장 복습
-- [ ] 기술면접 준비 ( javascript, react, typescript, socketIO 등등...)
+- [ ] 모던 자바스크립트 deep dive 5장 복습 (워밍업)
+- [ ] 아침 프론트엔드 면접지식 영상 시청
+- [ ] 기술면접 준비 ( 1. 새로운 개념으로 블로깅 주제를 찾고 작성, 2. 빠르게 복습 및 새로운 지식 습득 )
+- [ ] typescript 학습
+          [기본개념 정리본](https://heropy.blog/2020/01/27/typescript/)
+          [타입스크립트 한글문서](https://typescript-kr.github.io/)
+          [타입스크립트 챌린지](https://github.com/type-challenges/type-challenges)
 - [ ] CSS 디자인 참조공부 (30분)
 
 ## 기록정리
 - [ ] 기술면접 준비내용 깃프로젝트, 벨로그 정리
-- [ ] Next.js 공부내용 깃프로젝트, 벨로그 정리
+- [ ] typescript 학습 내용 정리
