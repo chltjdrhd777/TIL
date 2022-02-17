@@ -12,14 +12,14 @@ assignees: chltjdrhd777
 ## 개인 프로젝트 제작
 
 - ### 프론트엔드 && 백엔드
-  - [ ] Next.js data fetching toy 제작
-  - [ ] Next.js 클론코딩 (block chain clone)[레퍼런스](https://www.youtube.com/watch?v=frCsGK4cKks)
-  - [ ] 제작중인 프로젝트 Next.js로 이식
+  - [ ] 게시판 도큐먼트 레이아웃 반응형 제작 완료
+  - [ ] 텍스트 에디터 기술스텍 조사 
+  - [ ] 글쓰기 파트 임시 레이아웃 제작 후 텍스트 에디터 테스트 ( 작성 및 파싱 )
 
 ## 개인공부
-- [ ] 모던 자바스크립트 deep dive 5장 복습 (워밍업)
-- [ ] 아침 프론트엔드 면접지식 영상 시청
-- [ ] 기술면접 준비 ( 1. 새로운 개념으로 블로깅 주제를 찾고 작성, 2. 빠르게 복습 및 새로운 지식 습득 )
+- [x] 모던 자바스크립트 deep dive 5장 복습 (워밍업)
+- [ ] [모던 자바스크립트 튜토리얼 2단원 학습](https://ko.javascript.info/)
+- [ ] 기술면접 준비 ( option 1. 새로운 개념으로 블로깅 주제를 찾고 작성, option 2. 빠르게 복습 및 내용 정리 ) 
 - [ ] typescript 학습
           [기본개념 정리본](https://heropy.blog/2020/01/27/typescript/)
           [타입스크립트 한글문서](https://typescript-kr.github.io/)
